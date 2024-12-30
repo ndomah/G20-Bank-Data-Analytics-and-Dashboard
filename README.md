@@ -21,31 +21,31 @@ This project demonstrates a comprehensive workflow for exploratory data analysis
 - **Key Metrics**: Visualized parameters such as inflation rates, unemployment, trade balances, and foreign direct investment (FDI).
 ## Final Dashboard
 ### Dashboard 1: Social and Economic Trends
-1. **Inflation Rate Over the Years**
+- **Inflation Rate Over the Years**
   - **Type**: Line chart.
   - **Insight**: South Africa had the highest inflation, while the UK exhibited a steady decline post-2017.
-2. **Unemployment Rate**
+- **Unemployment Rate**
   - **Type**: Horizontal bar chart.
   - **Insight**: South Africa faced persistently high unemployment, while other nations showed stability.
-3. **Access to Electricity**
+- **Access to Electricity**
   - **Type**: Heatmap.
   - **Insight**: South Africa revealed notable gaps in electricity access, while other countries achieved near-universal coverage.
-4. **Efficacy of Government Education Spending**
+- **Efficacy of Government Education Spending**
   - **Type**: Tree map.
   - **Insight**: Identified inefficiencies in education spending, particularly in South Africa and the UK.
 
 ![dashboard 1](https://github.com/ndomah/G20-Bank-Data-Analytics-and-Dashboard/blob/main/Dashboard%201.png)
 ### **Dashboard 2: Economic Dynamics**
-1. **GDP vs. Gross Capital Formation**
+- **GDP vs. Gross Capital Formation**
   - **Type**: Bubble chart.
   - **Insight**: The US dominated GDP, while Canada exhibited balanced capital formation.
-2. **Exports vs. Imports**
+- **Exports vs. Imports**
   - **Type**: Bar chart.
   - **Insight**: Highlighted trade balance disparities, with Canada and the UK maintaining equilibrium.
-3. **Mobile Subscriptions vs. GNI**
+- **Mobile Subscriptions vs. GNI**
   - **Type**: Tree map.
   - **Insight**: Showed a positive correlation between digital connectivity and income levels.
-4. **FDI Distribution**
+- **FDI Distribution**
   - **Type**: Box plot.
   - **Insight**: Japan showed significant FDI growth, whereas Italy experienced declines.
 
